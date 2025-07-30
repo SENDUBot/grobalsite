@@ -7,7 +7,8 @@
       "Bash(mkdir:*)",
       "Bash(npm init:*)",
       "Bash(npm install:*)",
-      "WebFetch(domain:sendubot-dev.gitbook.io)"
+      "WebFetch(domain:sendubot-dev.gitbook.io)",
+      "Bash(npm run build:*)"
     ],
     "deny": []
   }

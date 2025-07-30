@@ -177,7 +177,7 @@ export default function Home() {
               <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent"> SENDUBot</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-              First, join SENDUBot's Discord, register for a subscription using the payment link below, and activate it by sending a DM to the administrator.
+              First, join SENDUBot&apos;s Discord, register for a subscription using the payment link below, and activate it by sending a DM to the administrator.
             </p>
           </div>
           <div className="flex justify-center items-center mb-14">
