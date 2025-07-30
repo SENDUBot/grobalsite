@@ -88,6 +88,20 @@ export default function Home() {
               allowFullScreen
             ></iframe>
           </div>
+          
+          {/* Fusion Success Image */}
+          <div className="mt-12 text-center">
+            <h3 className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent mb-6">Fusion Success</h3>
+            <div className="relative max-w-4xl mx-auto rounded-2xl overflow-hidden bg-black/20 backdrop-blur-sm border border-white/10">
+              <Image
+                src="/success.png"
+                alt="Fusion Success"
+                width={1200}
+                height={800}
+                className="w-full h-auto"
+              />
+            </div>
+          </div>
         </div>
       </section>
 
