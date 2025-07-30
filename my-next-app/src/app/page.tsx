@@ -23,9 +23,9 @@ export default function Home() {
               <a href="#features" className="text-gray-300 hover:text-white transition-colors">Features</a>
               <a href="#pricing" className="text-gray-300 hover:text-white transition-colors">Pricing</a>
             </div>
-            <a 
-              href="https://discord.gg/Gnr96XYdu5" 
-              target="_blank" 
+            <a
+              href="https://discord.gg/Gnr96XYdu5"
+              target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-purple-500 to-pink-500 text-white px-6 py-2 rounded-full hover:from-purple-600 hover:to-pink-600 transition-all inline-block"
             >
@@ -48,20 +48,20 @@ export default function Home() {
             <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent"> Online Purchases</span>
           </h1>
           <p className="text-xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed">
-          SENDUBot is the ultimate bot support tool made in Japan, used by over 400 people in total. It provides integrated proxies, virtual Windows servers, advanced proxy management, and variant acquisition tools to reduce costs and maximize purchase success rates.
+            SENDUBot is the ultimate bot support tool made in Japan, used by over 400 people in total. It provides integrated proxies, virtual Windows servers, advanced proxy management, and variant acquisition tools to reduce costs and maximize purchase success rates.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <a 
-              href="https://discord.gg/Gnr96XYdu5" 
-              target="_blank" 
+            <a
+              href="https://discord.gg/Gnr96XYdu5"
+              target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-purple-500 to-pink-500 text-white px-8 py-4 rounded-full text-lg font-semibold hover:from-purple-600 hover:to-pink-600 transition-all transform hover:scale-105 inline-block"
             >
               Start SENDUBot
             </a>
-            <a 
-              href="https://sendubot-dev.gitbook.io/sendubot-global-tutorial/" 
-              target="_blank" 
+            <a
+              href="https://sendubot-dev.gitbook.io/sendubot-global-tutorial/"
+              target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r bg-purple-500/20 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-white/20"
             >
@@ -111,7 +111,7 @@ export default function Home() {
               </div>
               <h3 className="text-2xl font-bold text-white mb-4">Fusion Proxy</h3>
               <p className="text-gray-300 leading-relaxed">
-              The most powerful feature in the ecosystem that combines residential proxies with AWS instances, combining the stability of residential proxies and the speed of DC servers.
+                The most powerful feature in the ecosystem that combines residential proxies with AWS instances, combining the stability of residential proxies and the speed of DC servers.
               </p>
             </div>
 
@@ -121,7 +121,7 @@ export default function Home() {
               </div>
               <h3 className="text-2xl font-bold text-white mb-4">AWS Virtual Windows Servers & Proxy Generator</h3>
               <p className="text-gray-300 leading-relaxed">
-              Easily create a virtual Windows and proxy on AWS with just one click, which offers advantages in uptime, high speed stability, and cost performance.
+                Easily create a virtual Windows and proxy on AWS with just one click, which offers advantages in uptime, high speed stability, and cost performance.
               </p>
             </div>
 
@@ -177,14 +177,14 @@ export default function Home() {
               <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent"> SENDUBot</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            First, join SENDUBot's Discord, register for a subscription using the payment link below, and activate it by sending a DM to the administrator.
+              First, join SENDUBot's Discord, register for a subscription using the payment link below, and activate it by sending a DM to the administrator.
             </p>
           </div>
           <div className="flex justify-center items-center mb-14">
             <div className="flex space-x-4">
-              <a 
-                href="https://discord.gg/Gnr96XYdu5" 
-                target="_blank" 
+              <a
+                href="https://discord.gg/Gnr96XYdu5"
+                target="_blank"
                 rel="noopener noreferrer"
                 className="bg-white/10 hover:bg-white/20 text-white p-2 rounded-lg transition-all inline-block"
               >
@@ -229,12 +229,12 @@ export default function Home() {
                   Support within the Discord server
                 </li>
                 <p className="text-sm text-gray-400 mt-6 text-center">
-                ※ Global Plan does not support virtual Windows and proxy and fusion proxy construction in the Japan region.
-              </p>
+                  ※ Global Plan does not support virtual Windows and proxy and fusion proxy construction in the Japan region.
+                </p>
               </ul>
-              <a 
-                href="https://buy.stripe.com/14k5kKefJeIW85q00F" 
-                target="_blank" 
+              <a
+                href="https://buy.stripe.com/14k5kKefJeIW85q00F"
+                target="_blank"
                 rel="noopener noreferrer"
                 className="w-full bg-gradient-to-r from-purple-500 to-pink-500 text-white py-3 rounded-full font-semibold hover:from-purple-600 hover:to-pink-600 transition-all inline-block text-center"
               >
@@ -243,10 +243,10 @@ export default function Home() {
 
             </div>
             <div className="text-center mt-10">
-            <p className="text-l text-gray-300 max-w-2xl mx-auto">
-            After completing the payment, please send a DM to the administrator account (@sendubot) on Discord with the email address used for Stripe payment.
-            </p>
-          </div>
+              <p className="text-l text-gray-300 max-w-2xl mx-auto">
+                After completing the payment, please send a DM to the administrator account (@sendubot) on Discord with the email address used for Stripe payment.
+              </p>
+            </div>
           </div>
         </div>
       </section>
@@ -270,17 +270,17 @@ export default function Home() {
                 The ultimate support tool for optimizing your online purchasing workflow. Reduce costs, increase success rates.
               </p>
               <div className="flex space-x-4">
-                <a 
-                  href="https://discord.gg/Gnr96XYdu5" 
-                  target="_blank" 
+                <a
+                  href="https://discord.gg/Gnr96XYdu5"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white/10 hover:bg-white/20 text-white p-2 rounded-lg transition-all inline-block"
                 >
                   Discord
                 </a>
-                <a 
-                  href="https://sendubot-dev.gitbook.io/sendubot-global-tutorial" 
-                  target="_blank" 
+                <a
+                  href="https://sendubot-dev.gitbook.io/sendubot-global-tutorial"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white/10 hover:bg-white/20 text-white p-2 rounded-lg transition-all inline-block"
                 >
