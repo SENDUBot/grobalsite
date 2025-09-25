@@ -88,7 +88,24 @@ export default function Home() {
               allowFullScreen
             ></iframe>
           </div>
-          
+
+          {/* Speed Test Image */}
+          <div className="mt-12 text-center">
+            <h3 className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent mb-6">Speed Test</h3>
+            <p className="text-xl text-gray-300 max-w-2xl mx-auto mb-6">
+              Fusioning the same residential proxy will give you these speeds. Your IP address will remain the same as the residential proxy. Enjoy unparalleled speeds while maintaining anonymity.
+            </p>
+            <div className="relative max-w-4xl mx-auto rounded-2xl overflow-hidden bg-black/20 backdrop-blur-sm border border-white/10">
+              <Image
+                src="/speed.png"
+                alt="Speed Test"
+                width={1200}
+                height={800}
+                className="w-full h-auto"
+              />
+            </div>
+          </div>
+
           {/* Fusion Success Image */}
           <div className="mt-12 text-center">
             <h3 className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent mb-6">Fusion Success</h3>
