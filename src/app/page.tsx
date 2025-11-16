@@ -259,9 +259,6 @@ export default function Home() {
                   <CheckCircle className="text-green-400 mr-3" size={20} />
                   Support within the Discord server
                 </li>
-                <p className="text-sm text-gray-400 mt-6 text-center">
-                  ※ Global Plan does not support virtual Windows and proxy and fusion proxy construction in the Japan region.
-                </p>
               </ul>
               <a
                 href="https://buy.stripe.com/9B66oI8QG67d3XcdGf1RC1e"
