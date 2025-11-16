@@ -261,7 +261,7 @@ export default function Home() {
                 </li>
               </ul>
               <a
-                href="https://buy.stripe.com/9B66oI8QG67d3XcdGf1RC1e"
+                href="https://buy.stripe.com/28E4gAd6W1QX2T8eKj1RC1f"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full bg-gradient-to-r from-purple-500 to-pink-500 text-white py-3 rounded-full font-semibold hover:from-purple-600 hover:to-pink-600 transition-all inline-block text-center"
