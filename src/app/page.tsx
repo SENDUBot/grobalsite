@@ -275,7 +275,7 @@ export default function Home() {
             </div>
             <div className="text-center mt-10">
               <p className="text-l text-gray-300 max-w-2xl mx-auto">
-                After completing the payment, please send a DM to the administrator account (@sendubot) on Discord with the email address used for Stripe payment. We will reply within 24 hours.
+                After completing the payment, please send a DM to the administrator account (@sendubot) on Discord with the email address used for Stripe payment.We will reply within 24 hours.
               </p>
             </div>
           </div>
