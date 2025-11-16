@@ -234,7 +234,7 @@ export default function Home() {
                 <h3 className="text-2xl font-bold text-white mb-2">Global Plan</h3>
                 <p className="text-gray-300 mb-6">For power users and long-term subscribers</p>
                 <div className="text-4xl font-bold text-white mb-2">
-                  $15
+                  $25
                   <span className="text-lg text-gray-300 font-normal"> per month(in tax)</span>
                 </div>
               </div>
@@ -264,7 +264,7 @@ export default function Home() {
                 </p>
               </ul>
               <a
-                href="https://buy.stripe.com/14k5kKefJeIW85q00F"
+                href="https://buy.stripe.com/9B66oI8QG67d3XcdGf1RC1e"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full bg-gradient-to-r from-purple-500 to-pink-500 text-white py-3 rounded-full font-semibold hover:from-purple-600 hover:to-pink-600 transition-all inline-block text-center"
